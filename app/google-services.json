@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474315067961",
+    "project_id": "dailybazar-705d1",
+    "storage_bucket": "dailybazar-705d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474315067961:android:a34c547b720c21b5ccf3e8",
+        "android_client_info": {
+          "package_name": "com.omar.dailybazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474315067961-etmpb5552196nna2qhepo3b5dapdlnja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArM0cMopSvBnh3vOVyZK_HPJ4wURf8Iek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474315067961-etmpb5552196nna2qhepo3b5dapdlnja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
